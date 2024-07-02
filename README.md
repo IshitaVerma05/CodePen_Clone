@@ -85,4 +85,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 **Project Video**
 -
-https://github.com/Shri-Shlok-Agarwal/MernStack_Project/assets/139161753/9e124790-6bd1-4e4f-859c-00f9838a0559
